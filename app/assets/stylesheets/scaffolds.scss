@@ -38,15 +38,15 @@ div.actions {
 
 .field_with_errors {
   padding: 2px;
-  background-color: red;
+  background-color: #03fc3d;
   display: table; }
 
 #error_explanation {
   width: 450px;
-  border: 2px solid red;
+  border: 2px solid green;
   padding: 7px 7px 0;
   margin-bottom: 20px;
-  background-color: #f0f0f0; }
+  background-color: #03fc3d; }
 
 #error_explanation h2 {
   text-align: left;
@@ -54,7 +54,7 @@ div.actions {
   padding: 5px 5px 5px 15px;
   font-size: 12px;
   margin: -7px -7px 0;
-  background-color: #c00;
+  background-color:#03fc3d;
   color: #fff; }
 
 #error_explanation ul li {
